@@ -1,1 +1,1 @@
-# dojo_quiz_starter
+# a jquery puzzle
