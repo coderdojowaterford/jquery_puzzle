@@ -1,2 +1,1 @@
-# jquery_puzzle
-jquery_puzzle
+# dojo_quiz_starter
